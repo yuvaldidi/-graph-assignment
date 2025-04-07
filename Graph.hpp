@@ -1,4 +1,3 @@
-// Graph.hpp
 // yuvaldaddidi@gmail.com
 
 #ifndef GRAPH_HPP

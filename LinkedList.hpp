@@ -1,4 +1,3 @@
-// LinkedList.hpp
 // yuvaldaddidi@gmail.com
 
 #ifndef LINKED_LIST_HPP

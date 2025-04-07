@@ -1,4 +1,3 @@
-// Queue.cpp
 // yuvalgaddidi@gmail.com
 
 #include "Queue.hpp"

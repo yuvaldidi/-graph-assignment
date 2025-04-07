@@ -1,4 +1,3 @@
-// LinkedList.cpp
 // yuvaldaddidi@gmail.com
 
 #include "LinkedList.hpp"

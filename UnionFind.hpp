@@ -1,4 +1,3 @@
-// UnionFind.hpp
 // yuvalgaddidi@gmail.com
 
 #ifndef UNION_FIND_HPP

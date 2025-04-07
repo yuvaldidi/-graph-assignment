@@ -1,4 +1,3 @@
-// main.cpp
 // yuvalgaddidi@gmail.com
 
 #include "Graph.hpp"

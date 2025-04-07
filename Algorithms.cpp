@@ -1,4 +1,3 @@
-// Algorithms.cpp
 // yuvalgaddidi@gmail.com
 
 #include "Algorithms.hpp"

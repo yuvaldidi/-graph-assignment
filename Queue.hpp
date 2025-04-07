@@ -1,4 +1,3 @@
-// Queue.hpp
 // yuvalgaddidi@gmail.com
 
 #ifndef QUEUE_HPP

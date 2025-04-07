@@ -1,4 +1,3 @@
-// UnionFind.cpp
 // yuvalgaddidi@gmail.com
 
 #include "UnionFind.hpp"

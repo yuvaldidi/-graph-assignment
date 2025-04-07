@@ -1,4 +1,3 @@
-// PriorityQueue.hpp
 // yuvalgaddidi@gmail.com
 
 #ifndef PRIORITY_QUEUE_HPP

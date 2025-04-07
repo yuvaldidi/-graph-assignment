@@ -1,4 +1,3 @@
-// PriorityQueue.cpp
 // yuvalgaddidi@gmail.com
 
 #include "PriorityQueue.hpp"
